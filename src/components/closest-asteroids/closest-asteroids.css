@@ -1,0 +1,21 @@
+.columnBodyCA{
+    margin-left: 5%;
+    position: relative;
+    display: inline;
+}
+
+
+.columnBodyHome {
+    float: left;
+    width: 10%;
+    height:5%;
+    padding:2.6%;
+    text-align: center;
+    padding-top: 5%;
+    color:#6A6D4E;
+    font-size: 1.5em;   
+}
+
+.columnBodyHome:hover {
+    color:white;   
+}

@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.homeTitle{
+    text-align: center;
+    color: aliceblue;
+    font-size: 1.5 em;
+    margin-top: 2%;
+}

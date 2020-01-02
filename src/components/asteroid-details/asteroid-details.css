@@ -1,0 +1,15 @@
+.bodyDetails{
+    background-color: transparent;
+    overflow: hidden;
+    height: 1080px;
+    width: 1920px;
+    position: absolute;
+    background-image: url('../../common/Itokawa_pillars.jpg');
+    background-repeat: no-repeat;
+    color:	#D4AF37;
+    /* color:	#FFDF00; */
+}
+
+.containerDetails{
+    margin-left: 5%;
+}
